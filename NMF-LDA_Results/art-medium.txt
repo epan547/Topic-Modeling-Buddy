@@ -1,0 +1,54 @@
+2019-12-11
+
+Running NMF with Frobenius norm...
+Topic: 0
+artist work people thing make
+Most relevant links: https://medium.com/personal-growth/make-art-youre-an-artist-7893aa613d0
+https://medium.com/@la_pope/art-and-copy-bridging-the-gap-between-design-and-content-4325b0939134
+
+Topic: 1
+playlist inappropriate report sign content
+Most relevant links: https://medium.com/media/313f7a386e4f52a326635edc6058ce3e/href
+https://medium.com/media/93ef45938731e952fa595018abb90026/href
+
+Topic: 2
+model image input training transformer
+Most relevant links: https://medium.com/huggingface/how-to-build-a-state-of-the-art-conversational-ai-with-transfer-learning-2d818ac26313
+https://medium.com/p/bert-explained-state-of-the-art-language-model-for-nlp-f8b21a9b6270
+
+Topic: 3
+design designer user purpose brand
+Most relevant links: https://medium.com/p/the-truth-about-art-vs-design-c9a616de828
+https://medium.com/p/338624a290a6?source=user_profile---------1-------------------
+
+Topic: 4
+album zeppelin cover child rock
+Most relevant links: https://medium.com/@davidjdeal/creating-art-from-failure-the-houses-of-the-holy-album-cover-12f3ea93520e
+https://medium.com/@davidjdeal/creating-art-from-failure-the-houses-of-the-holy-album-cover-12f3ea93520e
+
+
+Running NMF with Kullback-Leibler... 
+Topic: 0
+make work example written like
+Most relevant links: https://medium.com/west-stringfellow/superforecasting-the-art-and-science-of-prediction-review-and-summary-e075be35a936
+https://medium.com/personal-growth/the-art-of-intimacy-75bd969f6b4b
+
+Topic: 1
+content inappropriate report playlist sign
+Most relevant links: https://medium.com/media/a14b5dd2ed83d599ac5f89c5312c67b5/href
+https://medium.com/media/df5e6e3b4d85eff919c56e662d234c96/href
+
+Topic: 2
+control allowing learning collection deep
+Most relevant links: https://medium.com/p/bert-explained-state-of-the-art-language-model-for-nlp-f8b21a9b6270
+https://medium.com/304fe0310a13/9a6b0cf3105c
+
+Topic: 3
+design cover brand feature article
+Most relevant links: https://medium.com/p/how-art-direction-will-help-you-create-masterful-web-interfaces-cba8d3dab0d8
+https://medium.com/anchor/the-dos-and-donts-of-podcast-cover-art-a0e8a3b51ee7
+
+Topic: 4
+written image using like make
+Most relevant links: https://medium.com/@davidjdeal/creating-art-from-failure-the-houses-of-the-holy-album-cover-12f3ea93520e
+https://medium.com/@davidjdeal/creating-art-from-failure-the-houses-of-the-holy-album-cover-12f3ea93520e

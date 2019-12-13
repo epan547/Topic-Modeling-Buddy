@@ -1,0 +1,54 @@
+2019-12-11
+
+Running NMF with Frobenius norm...
+Topic: 0
+book read reading time life
+Most relevant links: https://medium.com/accelerated-intelligence/the-way-you-read-books-says-a-lot-about-your-intelligence-find-out-why-c2127b00eb03
+https://forge.medium.com/how-to-read-two-books-a-week-414f4d3148e8
+
+Topic: 1
+design user designer designing product
+Most relevant links: https://medium.com/@IlonaJaudzemyte/top-16-free-ux-ui-design-books-worth-reading-in-2018-ffab21b16393
+https://medium.com/@uxdesigncc/ux-books-fundamental-reading-list-8ba3f36f6bd8
+
+Topic: 2
+machine learning python data deep
+Most relevant links: https://medium.com/@pchojecki/machine-learning-books-you-should-read-in-2020-344b44d9a11e
+https://medium.com/@pchojecki/data-science-books-you-should-read-in-2020-358f70e1d9b2
+
+Topic: 3
+story woman novel activist life
+Most relevant links: https://medium.com/@UN_Women/twelve-feminist-books-everyone-should-read-5982a66700c7
+https://medium.com/@katieishizukastephens/31-childrens-books-to-support-conversations-on-race-racism-and-resistance-9dbabc28360e
+
+Topic: 4
+manager product team management leadership
+Most relevant links: https://medium.com/pathlight/8-books-every-manager-should-get-their-hands-on-9843f06a8374
+https://medium.com/productmanagement101/product-management-related-books-that-helped-me-to-be-a-better-pm-1fa06590ea56
+
+
+Running NMF with Kullback-Leibler... 
+Topic: 0
+year book written youre world
+Most relevant links: https://medium.com/@RyanHoliday/how-to-digest-books-above-your-level-and-increase-your-intelligence-a11bd134da13
+https://medium.com/swlh/you-can-reclaim-your-focus-by-reading-more-books-heres-how-ba6a3849fae4
+
+Topic: 1
+learn business make designer improve
+Most relevant links: https://medium.com/p/books-that-shaped-my-career-as-ux-ui-designer-102335e0780e
+https://medium.com/@nvashanin/books-in-software-architecture-6ad974e524ce
+
+Topic: 2
+used written scientific project using
+Most relevant links: https://medium.com/@pchojecki/deep-learning-books-you-should-read-in-2020-7806048c1dc5
+https://medium.com/@pchojecki/data-science-books-you-should-read-in-2020-358f70e1d9b2
+
+Topic: 3
+best story mean history come
+Most relevant links: https://medium.com/@leilajanah/108-life-changing-books-and-works-of-art-b6de4d13f3b8
+https://medium.com/@katieishizukastephens/31-childrens-books-to-support-conversations-on-race-racism-and-resistance-9dbabc28360e
+
+Topic: 4
+book didnt leadership email written
+Most relevant links: https://medium.com/inside-plato/17-leadership-books-recommended-by-plato-mentors-358ecfe808f6
+https://medium.com/the-pm-library/10-books-on-how-to-effectively-manage-a-remote-team-b49b6fa14436

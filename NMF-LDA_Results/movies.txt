@@ -1,0 +1,54 @@
+2019-12-11
+
+Running NMF with Frobenius norm...
+Topic: 0
+film movie year story best
+Most relevant links: https://www.gq.com/story/best-movies-of-2019
+https://www.vox.com/culture/2019/12/2/20840853/december-2019-movies-little-women-star-wars-uncut-gems-cats-bombshell
+
+Topic: 1
+movie reserved right policy term
+Most relevant links: https://wyomovies.com/
+https://www.paramountmovies.com/
+
+Topic: 2
+christmas netflix november movie holiday
+Most relevant links: https://www.whats-on-netflix.com/whats-new/new-christmas-movies-on-netflix-12-1-2019/
+https://www.whats-on-netflix.com/whats-new/new-christmas-movies-on-netflix-12-1-2019/
+
+Topic: 3
+reward discount point movie club
+Most relevant links: https://www.gqtmovies.com/movies
+https://www.cinemark.com/movies
+
+Topic: 4
+plex free content streaming collection
+Most relevant links: https://www.engadget.com/2019/12/04/plex-free-streaming-service-movies-tv-shows/
+https://www.theverge.com/2019/12/4/20995123/plex-free-movies-tv-streaming-service-now-available-ads
+
+
+Running NMF with Kullback-Leibler... 
+Topic: 0
+best woman thats work star
+Most relevant links: https://www.esquire.com/entertainment/movies/g24561951/best-movies-of-2019/
+https://www.gq.com/story/best-movies-of-2019
+
+Topic: 1
+right reserved movie privacy policy
+Most relevant links: https://www.sho.com/movies
+https://moviesanywhere.com/welcome
+
+Topic: 2
+winner franchise request animated sorry
+Most relevant links: https://www.whats-on-netflix.com/whats-new/new-christmas-movies-on-netflix-12-1-2019/
+https://www.whats-on-netflix.com/whats-new/new-christmas-movies-on-netflix-12-1-2019/
+
+Topic: 3
+movie available reward ticket link
+Most relevant links: https://www.fandango.com/movies-in-theaters
+https://www.regmovies.com/movies
+
+Topic: 4
+family like weve hidden latest
+Most relevant links: https://www.theverge.com/2019/12/4/20995123/plex-free-movies-tv-streaming-service-now-available-ads
+https://www.engadget.com/2019/12/04/plex-free-streaming-service-movies-tv-shows/

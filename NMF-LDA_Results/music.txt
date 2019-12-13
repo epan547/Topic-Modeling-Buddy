@@ -1,0 +1,54 @@
+2019-12-11
+
+Running NMF with Frobenius norm...
+Topic: 0
+music song artist time free
+Most relevant links: https://en.wikipedia.org/wiki/Music
+https://apps.apple.com/us/app/youtube-music/id1017492454
+
+Topic: 1
+javascript enabled need complete browser
+Most relevant links: https://music.amazon.com/
+https://www.ticketmaster.com/discover/concerts
+
+Topic: 2
+medium reserved right group copyright
+Most relevant links: https://www.pastemagazine.com/music
+https://variety.com/v/music/
+
+Topic: 3
+culture study lullaby glowacki dance
+Most relevant links: https://www.reuters.com/article/us-science-music/study-reveals-musics-universal-patterns-across-societies-worldwide-idUSKBN1XV2L6
+https://www.reuters.com/article/us-science-music/study-reveals-musics-universal-patterns-across-societies-worldwide-idUSKBN1XV2L6
+
+Topic: 4
+student haven musician application young
+Most relevant links: https://www.curtis.edu/
+https://www.musichavenct.org/
+
+
+Running NMF with Kullback-Leibler... 
+Topic: 0
+music song artist like time
+Most relevant links: https://apps.apple.com/us/app/youtube-music/id1017492454
+https://buy.garmin.com/en-US/US/p/602063
+
+Topic: 1
+browser enabled javascript need click
+Most relevant links: https://open.spotify.com/
+https://www.urbanoutfitters.com/tech-gifts
+
+Topic: 2
+right reserved music medium copyright
+Most relevant links: https://www.musicarts.com/
+https://pitchfork.com/best/
+
+Topic: 3
+study university worldwide display hide
+Most relevant links: https://www.reuters.com/article/us-science-music/study-reveals-musics-universal-patterns-across-societies-worldwide-idUSKBN1XV2L6
+https://www.reuters.com/article/us-science-music/study-reveals-musics-universal-patterns-across-societies-worldwide-idUSKBN1XV2L6
+
+Topic: 4
+event world featuring update melody
+Most relevant links: https://www.cewm.org/
+https://www.juilliard.edu/music

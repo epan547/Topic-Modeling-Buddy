@@ -1,0 +1,40 @@
+2019-12-11
+
+Running NMF with Frobenius norm...
+Topic: 0
+function layer neuron weight input
+Most relevant links: n
+p
+
+Topic: 1
+image filter convolution pooling feature
+Most relevant links: f
+
+Topic: 2
+model data image training dataset
+Most relevant links:  
+k
+
+Topic: 3
+price house size data straight
+
+Running NMF with Kullback-Leibler... 
+Topic: 0
+training used value function output
+Most relevant links: p
+c
+
+Topic: 1
+time image using deep advantage
+Most relevant links:  
+f
+
+Topic: 2
+learning code data content figure
+Most relevant links: e
+l
+
+Topic: 3
+hidden like perform example karen
+Most relevant links: i
+a

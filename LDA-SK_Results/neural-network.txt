@@ -1,0 +1,23 @@
+2019-12-05
+Topic: 0
+model data layer weight value
+Topic: 1
+input output image neuron data
+Topic: 2
+model data learning weight image
+Topic: 3
+data layer learning value output
+Topic: 4
+layer input output function model
+Topic: 5
+image value model output weight
+Topic: 6
+learning neuron data value weight
+Topic: 7
+value weight function image output
+Topic: 8
+weight output layer function input
+Topic: 9
+function learning value layer output
+Topic: 10
+neuron weight input output function

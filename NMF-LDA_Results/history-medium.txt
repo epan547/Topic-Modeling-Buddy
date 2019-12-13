@@ -1,0 +1,54 @@
+2019-12-11
+
+Running NMF with Frobenius norm...
+Topic: 0
+history people world time like
+Most relevant links: https://medium.com/the-mission/the-25-best-history-podcasts-you-need-to-listen-to-ccf98527bdda
+https://medium.com/the-polymath-project/yuval-harari-on-the-paradox-of-historical-knowledge-and-the-real-value-of-history-5aa5330dceb2
+
+Topic: 1
+playlist inappropriate sign report content
+Most relevant links: https://medium.com/media/beb6b46a19e3847150972ab6c8fccbec/href
+https://medium.com/media/9ff768976094451f1da57911f23415b6/href
+
+Topic: 2
+talk design podcast news conference
+Most relevant links: https://medium.com/media/7d1da84d65bbe4baaf356d117da4e795/href
+https://medium.com/media/1ec7e00583930d9808347cc3ffa32895/href
+
+Topic: 3
+written agent learned russian join
+Most relevant links: https://medium.com/s/with-great-power/the-secret-history-of-guns-cf3036ed67c4
+https://medium.com/the-atlantic/the-history-of-sears-predicts-nearly-everything-amazon-is-doing-c4e3dab01a74
+
+Topic: 4
+slave black slavery white american
+Most relevant links: https://medium.com/the-aambc-journal/americas-breeding-farms-what-history-books-never-told-you-6704e8b152a4
+https://medium.com/aclu/five-truths-about-black-history-31d22d4ec9ee?source=read_next_metabar----------43
+
+
+Running NMF with Kullback-Leibler... 
+Topic: 0
+like people make know just
+Most relevant links: https://medium.com/p/d06740f8cfa5?source=user_profile---------1-------------------
+https://medium.com/about-holacracy/history-of-holacracy-c7a8489f8eca
+
+Topic: 1
+content playlist inappropriate sign report
+Most relevant links: https://medium.com/media/9ff768976094451f1da57911f23415b6/href
+https://medium.com/media/f6a0303f7963d16542c74e3cc3bba26c/href
+
+Topic: 2
+technology talk best entertainment science
+Most relevant links: https://medium.com/media/7d1da84d65bbe4baaf356d117da4e795/href
+https://medium.com/media/1ec7e00583930d9808347cc3ffa32895/href
+
+Topic: 3
+written based history case list
+Most relevant links: https://medium.com/@tylerpachal/iex-persistent-history-5d7d64e905d3
+https://medium.com/@Medium/version-history-a6cf0443cc11
+
+Topic: 4
+written aware african activity death
+Most relevant links: https://medium.com/queer-history-for-the-people/a-brief-history-of-the-transgender-pride-flag-93c1c2a1c39
+https://medium.com/aclu/william-barr-has-a-long-history-of-abusing-civil-rights-and-liberties-in-the-name-of-national-82447512cb87?source=rss-------8-----------------politics

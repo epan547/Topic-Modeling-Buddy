@@ -1,0 +1,53 @@
+2019-12-11
+
+Running NMF with Frobenius norm...
+Topic: 0
+museum exhibition work collection artist
+Most relevant links: https://artbma.org/
+https://www.toledomuseum.org/
+
+Topic: 1
+banana datuna wall cattelan maurizio
+Most relevant links: https://www.bbc.com/news/world-us-canada-50704136
+https://www.nytimes.com/2019/12/07/arts/art-basel-banana-eaten.html
+
+Topic: 2
+english word translation definition skill
+Most relevant links: https://www.behance.net/galleries/fine-arts
+https://www.merriam-webster.com/dictionary/art
+
+Topic: 3
+sure make browser cooky result
+Most relevant links: https://www.amazon.com/LEGO-Friends-Emmas-41336-Building/dp/B075RFBKNV
+https://www.urbanoutfitters.com/apartment-room-decor
+
+Topic: 4
+resource access permission dont facebook
+Most relevant links: https://omart.org/
+
+
+Running NMF with Kullback-Leibler... 
+Topic: 0
+museum city collection exhibition holiday
+Most relevant links: https://www.theartnewspaper.com/
+https://www.ringling.org/
+
+Topic: 1
+banana duct maurizio piece comedian
+Most relevant links: https://www.tmz.com/2019/12/07/120k-duct-taped-banana-eaten-performance-artist-art-basel-miami/
+https://www.bbc.com/news/world-us-canada-50704136
+
+Topic: 2
+reserved right skill standard live
+Most relevant links: https://en.wikipedia.org/wiki/Art
+https://www.meca.edu/
+
+Topic: 3
+best experience browser check cooky
+Most relevant links: https://www.artvan.com/
+https://www.michaels.com/100-piece-kids-art-set-by-creatology/10152571.html
+
+Topic: 4
+sign resource access dont english
+Most relevant links: https://www.youtube.com/watch?v=qYnavutKVN8
+https://en.wikiquote.org/wiki/Art

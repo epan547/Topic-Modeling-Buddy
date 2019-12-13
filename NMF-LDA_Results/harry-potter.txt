@@ -1,0 +1,51 @@
+2019-12-11
+
+Running NMF with Frobenius norm...
+Topic: 0
+playlist inappropriate report content sign
+Most relevant links: c
+ 
+
+Topic: 1
+harry potter book just like
+Most relevant links: C
+s
+
+Topic: 2
+harry david potter radcliffe daniel
+Most relevant links: :
+ 
+
+Topic: 3
+warner entertainment bros scene right
+Most relevant links: i
+o
+
+Topic: 4
+word text sentence analysis character
+Most relevant links: i
+
+
+Running NMF with Kullback-Leibler... 
+Topic: 0
+content inappropriate playlist report sign
+Most relevant links: n
+f
+
+Topic: 1
+written year time harry character
+Most relevant links: i
+l
+
+Topic: 2
+world wizarding daniel potter moment
+Most relevant links: l
+:
+
+Topic: 3
+doing turn thing wand youre
+Most relevant links: C
+
+Topic: 4
+bros entertainment described tweet based
+Most relevant links: f

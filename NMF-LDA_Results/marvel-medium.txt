@@ -1,0 +1,54 @@
+2019-12-11
+
+Running NMF with Frobenius norm...
+Topic: 0
+marvel film character movie woman
+Most relevant links: https://medium.com/@jamesandrews10/for-better-or-worse-how-has-marvel-changed-cinema-f8f445fdbbe6
+https://medium.com/@matthewkadish/captain-marvels-biggest-flaw-she-s-not-a-strong-character-storycraft-f45b13af512c
+
+Topic: 1
+marvel pinterestcom plusgooglecom marvelofficial marvelentertainmenttumblrcom
+Most relevant links: https://medium.com/media/20f0c94bba8ce363cc5d5ae7fa25588a/href
+https://medium.com/media/ec3e368f3564f0d5c87345a4bda0598b/href
+
+Topic: 2
+playlist inappropriate report content sign
+Most relevant links: https://medium.com/media/a41c20d97a9e8acbbed511bd4ad4b6ac/href
+https://medium.com/media/968adfd2ff7db7f0b35544dcdc0a99d2/href
+
+Topic: 3
+design designer prototype developer product
+Most relevant links: https://medium.com/@marvelapp
+https://medium.com/@mutlu82/you-can-now-embed-interactive-marvel-prototypes-on-medium-31356b8c76ef
+
+Topic: 4
+netflix daredevil matt watch series
+Most relevant links: https://medium.com/media/30794c25c8162286ce573a443f0d6c45/href
+https://medium.com/media/a3855a3248852800672533e8cf5b0926/href
+
+
+Running NMF with Kullback-Leibler... 
+Topic: 0
+marvel year captain written universe
+Most relevant links: https://medium.com/@sady_doyle/age-of-robots-how-marvel-is-killing-the-popcorn-movie-1e21b231f73a
+https://medium.com/@Penseur/captain-marvel-finally-a-superhero-you-can-love-280648e9f22f
+
+Topic: 1
+content marvel inappropriate playlist facebook
+Most relevant links: https://medium.com/media/f473f8ab323596290b6734b628e44766/href
+https://medium.com/media/de53bc94b17050a9cef2225a6deb59b7/href
+
+Topic: 2
+content inappropriate report playlist sign
+Most relevant links: https://medium.com/media/937e3ceadf071b3e404cbbdf56150901/href
+https://medium.com/media/8f494770055c516916cec9a62e56023f/href
+
+Topic: 3
+character written used using quickly
+Most relevant links: https://medium.com/@AlexKukharenko/prototyping-fight-invision-vs-marvel-ec763d75f45b
+https://medium.com/sketch-app-sources/prototyping-with-marvel-and-sketch-part-2-of-2-b78c0e1c2f0
+
+Topic: 4
+like genre york agent present
+Most relevant links: https://medium.com/mtvnews/the-year-in-the-marvel-universe-6c55e2412933
+https://medium.com/mtvnews/the-year-in-the-marvel-universe-6c55e2412933

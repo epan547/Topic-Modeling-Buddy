@@ -1,0 +1,54 @@
+2019-12-11
+Topic: 0
+architecture tour learn chicago design
+Most relevant links: https://www.architecture.org/tours
+https://www.architecturalrecord.com/
+
+Topic: 1
+world project office architect portfolio
+Most relevant links: https://www.yatzer.com/architecture
+
+Topic: 2
+architecture level configuration example logging
+Most relevant links: https://logging.apache.org/log4j/2.0/manual/architecture.html
+https://www.labiennale.org/en/architecture/2020
+
+Topic: 3
+sponsored build data architecture software
+Most relevant links: https://www.infoq.com/architecture/
+https://github.com/kubernetes/community/tree/master/sig-architecture
+
+Topic: 4
+architecture project design city architect
+Most relevant links: https://www.designboom.com/architecture/
+https://www.dezeen.com/architecture/
+
+Topic: 5
+architecture building design architect architectural
+Most relevant links: https://en.wikipedia.org/wiki/Architecture
+https://medium.com/@AAA_Publication/what-is-architecture-1b52f5339c2a
+
+Topic: 6
+student architecture design program school
+Most relevant links: https://www.pratt.edu/academics/architecture/ug-dept-architecture/
+https://www.psmuseum.org/visit/psam-a-and-d-center
+
+Topic: 7
+client server request used policy
+Most relevant links: https://www.vaultproject.io/docs/internals/architecture.html
+https://www.consul.io/docs/internals/architecture.html
+
+Topic: 8
+lecture architecture design exhibition research
+Most relevant links: https://www.design.iastate.edu/architecture/
+https://why-site.com/
+
+Topic: 9
+architecture design material substance program
+Most relevant links: https://architecture2030.org/
+https://www.substance3d.com/industries/architecture/
+
+Topic: 10
+architecture student form cultural hospitality
+Most relevant links: https://architecture.barnard.edu/
+https://www.metropolismag.com/architecture/

@@ -1,0 +1,44 @@
+2019-12-11
+
+Running NMF with Frobenius norm...
+Topic: 0
+history social student book historical
+Most relevant links: https://en.wikipedia.org/wiki/History
+https://www.ssa.gov/history/
+
+Topic: 1
+security error generated server appropriate
+Most relevant links: https://www.historytheatre.com/
+https://nationalwomenshistoryalliance.org/
+
+Topic: 2
+read kentucky saturday tuesday closed
+Most relevant links: https://www.nyhistory.org/
+https://www.nyhistory.org/
+
+Topic: 3
+payment disability information change website
+Most relevant links: https://www.va.gov/va-payment-history
+https://www.va.gov/va-payment-history
+
+
+Running NMF with Kullback-Leibler... 
+Topic: 0
+history learn event right help
+Most relevant links: https://www.newyorker.com/magazine/2019/12/09/the-intoxicating-history-of-gin
+https://historynewsnetwork.org/
+
+Topic: 1
+security error generated appropriate resource
+Most relevant links: https://www.ssa.gov/history/
+https://www.ssa.gov/history/
+
+Topic: 2
+historical december museum read city
+Most relevant links: https://mohai.org/
+https://www.realclearhistory.com/
+
+Topic: 3
+history sign health like browser
+Most relevant links: https://www.va.gov/va-payment-history
+https://www.va.gov/va-payment-history

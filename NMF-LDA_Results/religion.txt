@@ -1,0 +1,53 @@
+2019-12-11
+
+Running NMF with Frobenius norm...
+Topic: 0
+religion religious people belief faith
+Most relevant links: https://en.wikipedia.org/wiki/Religion
+https://www.bbc.com/future/article/20190801-tomorrows-gods-what-is-the-future-of-religion
+
+Topic: 1
+freedom religious american state discrimination
+Most relevant links: https://www.religiousfreedomcenter.org/
+https://www.uscirf.gov/
+
+Topic: 2
+religion student study department university
+Most relevant links: https://www.concordia.ca/artsci/religions-cultures.html
+https://religion.fsu.edu/
+
+Topic: 3
+cooky registered website sure journal
+Most relevant links: https://www.tandfonline.com/toc/rrel20/current
+https://www.sciencedirect.com/journal/religion
+
+Topic: 4
+foundee remlnkto outoftime youtube award
+Most relevant links: https://www.youtube.com/watch?v=xwtdhWltSIg
+
+
+Running NMF with Kullback-Leibler... 
+Topic: 0
+religion tradition work life human
+Most relevant links: https://www.bbc.com/future/article/20190801-tomorrows-gods-what-is-the-future-of-religion
+https://www.perell.com/blog/peter-thiel
+
+Topic: 1
+social church analysis faith american
+Most relevant links: https://apnews.com/apf-religion
+https://www.foxnews.com/category/world/religion
+
+Topic: 2
+american religious department change list
+Most relevant links: https://religion.fsu.edu/
+https://www2.ed.gov/ocr/religion.html
+
+Topic: 3
+content copyright reserved receive current
+Most relevant links: https://www.sciencedirect.com/journal/religion
+https://journals.sagepub.com/home/sir
+
+Topic: 4
+award facebook religion commission superstition
+Most relevant links: https://www.loc.gov/exhibits/religion/
+https://www.britannica.com/topic/religion

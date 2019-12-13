@@ -1,0 +1,43 @@
+2019-12-11
+
+Running NMF with Frobenius norm...
+Topic: 0
+election state voter vote voting
+Most relevant links: https://medium.com/@CodyEngel/why-voting-in-the-united-states-is-broken-3a4b60251db3
+https://medium.com/@teamwarren/my-plan-to-strengthen-our-democracy-6867ec1bcd3c
+
+Topic: 1
+russian russia clinton election intelligence
+Most relevant links: https://medium.com/p/dc1e3f8d0045?source=user_profile---------3-------------------
+https://medium.com/p/dc1e3f8d0045?source=user_profile---------3-------------------
+
+Topic: 2
+ballot mail voter absentee provisional
+Most relevant links: https://medium.com/mit-election-lab/voting-by-mail-and-absentee-voting-856a3a047300
+https://medium.com/mit-election-lab/voting-by-mail-and-absentee-voting-856a3a047300
+
+Topic: 3
+rand wrote marijuana care insurance
+Most relevant links: https://medium.com/rand-corporation/the-domestic-issues-facing-trump-fce7b831bc5f?source=---------9
+
+
+Running NMF with Kullback-Leibler... 
+Topic: 0
+written election state american united
+Most relevant links: https://medium.com/@CodyEngel/why-voting-in-the-united-states-is-broken-3a4b60251db3
+https://medium.com/s/story/five-acts-of-voter-suppression-that-will-sway-the-next-election-b6979e9ff94c
+
+Topic: 1
+donald trump president party department
+Most relevant links: https://medium.com/@blakefleetwood/the-long-record-of-us-and-russian-interference-in-other-countries-elections-3549810ccdf1
+https://medium.com/@blakefleetwood/the-long-record-of-us-and-russian-interference-in-other-countries-elections-3549810ccdf1
+
+Topic: 2
+developed newsletter known individual election
+Most relevant links: https://medium.com/p/dc1e3f8d0045?source=user_profile---------3-------------------
+https://medium.com/p/dc1e3f8d0045?source=user_profile---------3-------------------
+
+Topic: 3
+written year data world ensure
+Most relevant links: https://medium.com/rand-corporation/the-domestic-issues-facing-trump-fce7b831bc5f?source=---------9
+https://medium.com/rand-corporation/the-domestic-issues-facing-trump-fce7b831bc5f?source=---------9

@@ -1,0 +1,44 @@
+2019-12-11
+
+Running NMF with Frobenius norm...
+Topic: 0
+election state vote party candidate
+Most relevant links: https://en.wikipedia.org/wiki/Elections_in_the_United_States
+https://www.usa.gov/election
+
+Topic: 1
+russian russia trump said campaign
+Most relevant links: https://www.usatoday.com/story/news/politics/2019/04/22/mueller-report-what-know-russian-election-interference/3538877002/
+https://time.com/5565991/russia-influence-2016-election/
+
+Topic: 2
+source guide survey webinar documentwrite
+Most relevant links: https://libguides.princeton.edu/elections
+https://libguides.princeton.edu/elections
+
+Topic: 3
+section title contribution shall foreign
+Most relevant links: https://www.law.cornell.edu/uscode/text/52/30121
+https://uscode.house.gov/view.xhtml?req=(title:52%20section:30121%20edition:prelim)
+
+
+Running NMF with Kullback-Leibler... 
+Topic: 0
+political voter work vote presidential
+Most relevant links: https://www.bbc.com/news/world-us-canada-47309795
+https://www.aljazeera.com/news/2019/02/2020-democratic-presidential-candidates-190225202457543.html
+
+Topic: 1
+interference news agency russian conspiracy
+Most relevant links: https://www.theatlantic.com/ideas/archive/2018/07/the-us-has-a-long-history-of-election-meddling/565538/
+https://www.theatlantic.com/ideas/archive/2018/07/the-us-has-a-long-history-of-election-meddling/565538/
+
+Topic: 2
+election voting include information return
+Most relevant links: https://www.treasury.gov/resource-center/sanctions/Programs/Pages/election_eo.aspx
+https://www.nist.gov/itl/election-administration-united-states-1934-joseph-p-harris-phd
+
+Topic: 3
+endstream endobj regulation taxed constitutionally
+Most relevant links: https://www.federalregister.gov/documents/2018/09/14/2018-20203/imposing-certain-sanctions-in-the-event-of-foreign-interference-in-a-united-states-election
+https://www.whitehouse.gov/presidential-actions/executive-order-imposing-certain-sanctions-event-foreign-interference-united-states-election/

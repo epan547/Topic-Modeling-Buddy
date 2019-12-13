@@ -1,0 +1,54 @@
+2019-12-11
+
+Running NMF with Frobenius norm...
+Topic: 0
+book photo page event gift
+Most relevant links: https://newbooksnetwork.com/
+https://www.jw.org/en/library/books/
+
+Topic: 1
+enabled browser javascript sure cooky
+Most relevant links: https://www.urbanoutfitters.com/books
+https://www.chegg.com/books
+
+Topic: 2
+book story time read life
+Most relevant links: https://bookriot.com/2018/12/11/best-books-of-2018/
+https://slate.com/human-interest/2019/11/50-best-nonfiction-books.html
+
+Topic: 3
+review book service nonfiction literary
+Most relevant links: https://www.chroniclebooks.com/
+https://fearrington.com/email/whirlikids/
+
+Topic: 4
+special value nook browse shop
+Most relevant links: https://www.barnesandnoble.com/b/this-months-biggest-new-releases-in-books/_/N-2luc
+https://www.barnesandnoble.com/b/top-books-of-the-month/_/N-9Z2luc
+
+
+Running NMF with Kullback-Leibler... 
+Topic: 0
+book right work year author
+Most relevant links: https://en.wikipedia.org/wiki/Book
+https://basecamp.com/books
+
+Topic: 1
+sure browser check website browse
+Most relevant links: https://www.thriftbooks.com/sitemap/
+https://www.urbanoutfitters.com/books
+
+Topic: 2
+young york written fiction james
+Most relevant links: https://slate.com/human-interest/2019/11/50-best-nonfiction-books.html
+https://bookriot.com/2018/12/11/best-books-of-2018/
+
+Topic: 3
+book search healthy event nonfiction
+Most relevant links: https://www.bostonglobe.com/arts/books/
+https://kcls.org/best-books/
+
+Topic: 4
+special shop disney earn treasure
+Most relevant links: https://bookfairs.scholastic.com/bookfairs/landing-page.html
+https://bookfairs.scholastic.com/bookfairs/landing-page.html

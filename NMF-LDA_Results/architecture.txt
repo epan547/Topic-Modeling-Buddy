@@ -1,0 +1,53 @@
+2019-12-11
+
+Running NMF with Frobenius norm...
+Topic: 0
+architecture design student school program
+Most relevant links: https://www.cca.edu/architecture/
+https://carta.fiu.edu/academics/school-of-architecture/
+
+Topic: 1
+firm based architecture designed cabin
+Most relevant links: https://www.ignant.com/category/architecture/
+https://www.aia.org/resources/10046-architecture-billings-index-abi
+
+Topic: 2
+make youre cooky result best
+Most relevant links: https://unsplash.com/t/architecture
+https://www.amazon.com/LEGO-Architecture-Skyline-Collection-Building/dp/B07GXC4R9R
+
+Topic: 3
+word architecture translation english quiz
+Most relevant links: https://www.merriam-webster.com/dictionary/architecture
+https://www.dictionary.com/browse/architecture
+
+Topic: 4
+epubaftermenu record office line document
+Most relevant links: https://www.architecturalrecord.com/
+
+
+Running NMF with Kullback-Leibler... 
+Topic: 0
+architecture year world design architect
+Most relevant links: https://www.cca.edu/architecture/
+https://www.arch.rpi.edu/
+
+Topic: 1
+design architect right designed sign
+Most relevant links: https://www.designboom.com/architecture/
+https://www.architecturaldigest.com/architecture-design
+
+Topic: 2
+make free help code resource
+Most relevant links: https://logging.apache.org/log4j/2.0/manual/architecture.html
+https://www.joelonsoftware.com/2001/04/21/dont-let-architecture-astronauts-scare-you/
+
+Topic: 3
+architecture english office modern translation
+Most relevant links: https://www.britannica.com/topic/architecture
+https://medium.com/@AAA_Publication/what-is-architecture-1b52f5339c2a
+
+Topic: 4
+building test provide medium urban
+Most relevant links: https://www.architecturalrecord.com/
+https://www.architecturalrecord.com/

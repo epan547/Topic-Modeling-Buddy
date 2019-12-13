@@ -162,7 +162,7 @@ def wc_sklearn(search_term, model_type):
 
 ## Results
 
-### Keyword: United States Election (Scraping Medium)
+#### Keyword: United States Election (Scraping Medium)
 #### LDA SKLearn:
 ![Wordclouds LDA SK learn](https://github.com/epan547/Topic-Modeling/blob/master/Wordclouds/united-states-election-medium-ldasklearn.png) <br>
 [Topics and articles for this word cloud can be found here](https://github.com/epan547/Topic-Modeling/blob/master/LDA-SK_Results/united-states-election-medium.txt)
@@ -174,7 +174,7 @@ def wc_sklearn(search_term, model_type):
 #### Gensim MALLET:
 ![Wordclouds gensim mallet](img/us-election-wordcloud-mallet.png)
 
-### Scraping Google Wider Web:
+#### Scraping Google Wider Web:
 #### NMF SKLearn:
 ![Wordclouds NMF SK learn](https://github.com/epan547/Topic-Modeling/blob/master/Wordclouds/united-states-election-medium-nmfsklearn.png) <br>
 [Topics and articles for this word cloud can be found here](https://github.com/epan547/Topic-Modeling/blob/master/NMF-LDA_Results/united-states-election.txt)

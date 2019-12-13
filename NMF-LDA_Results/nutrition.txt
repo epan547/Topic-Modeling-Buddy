@@ -1,0 +1,53 @@
+2019-12-11
+
+Running NMF with Frobenius norm...
+Topic: 0
+food diet calorie nutrition body
+Most relevant links: https://medium.com/@highshow83/balanced-diet-what-is-it-and-how-to-achieve-it-47f6fec853d4
+https://medium.com/@manya.goldstein/the-united-states-has-an-epidemic-of-processed-food-and-its-killing-us-bb3a9a9a0547
+
+Topic: 1
+child nutrition school community programme
+Most relevant links: https://medium.com/p/ce48fbfc2912?source=user_profile---------2-------------------
+https://medium.com/p/38945cb3cd44?source=user_profile---------30------------------
+
+Topic: 2
+project dataset label assembly data
+Most relevant links: https://medium.com/berkman-klein-center/the-dataset-nutrition-label-project-tackles-dataset-health-and-standards-658dc162dfbb
+https://medium.com/berkman-klein-center/the-dataset-nutrition-label-project-tackles-dataset-health-and-standards-658dc162dfbb
+
+Topic: 3
+houtkooper worm gene brennan dietary
+Most relevant links: https://medium.com/horizon-magazine/personalised-nutrition-to-serve-up-a-healthy-life-with-a-side-of-living-longer-e5340a14c84b
+
+Topic: 4
+personalized food community stress family
+Most relevant links: https://medium.com/@ellamihov/the-future-of-personalized-nutrition-is-not-what-we-think-ecdea4a51654
+https://medium.com/@ellamihov/the-future-of-personalized-nutrition-is-not-what-we-think-ecdea4a51654
+
+
+Running NMF with Kullback-Leibler... 
+Topic: 0
+nutrition healthy need food help
+Most relevant links: https://medium.com/olderbeast/guys-dont-diet-architect-your-own-nutrition-plan-you-can-follow-for-decades-25a8ead36f3f
+https://medium.com/nestle-usa/5-tips-to-make-good-nutrition-a-family-affair-in-2017-aacb221ba284
+
+Topic: 1
+written child access year focus
+Most relevant links: https://medium.com/committee-on-world-food-security-cfs/nutrition-a-world-in-crisis-bf9e3f276c9b
+https://medium.com/p/160ac960f259?source=user_profile---------1-------------------
+
+Topic: 2
+nutrition conversation product access know
+Most relevant links: https://medium.com/berkman-klein-center/the-dataset-nutrition-label-project-tackles-dataset-health-and-standards-658dc162dfbb
+https://medium.com/berkman-klein-center/the-dataset-nutrition-label-project-tackles-dataset-health-and-standards-658dc162dfbb
+
+Topic: 3
+article accurate related according written
+Most relevant links: https://medium.com/horizon-magazine/personalised-nutrition-to-serve-up-a-healthy-life-with-a-side-of-living-longer-e5340a14c84b
+https://medium.com/horizon-magazine/personalised-nutrition-to-serve-up-a-healthy-life-with-a-side-of-living-longer-e5340a14c84b
+
+Topic: 4
+body farmer achieve food plan
+Most relevant links: https://medium.com/@ellamihov/the-future-of-personalized-nutrition-is-not-what-we-think-ecdea4a51654
+https://medium.com/@ellamihov/the-future-of-personalized-nutrition-is-not-what-we-think-ecdea4a51654

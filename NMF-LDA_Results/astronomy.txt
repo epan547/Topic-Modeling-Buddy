@@ -1,0 +1,81 @@
+2019-12-12
+
+Running NMF with Frobenius norm...
+Topic: 0
+astronomy department university research program
+Most relevant links: https://www.wellesley.edu/astronomy
+https://astro.berkeley.edu/
+
+Topic: 1
+star galaxy space astronomer planet
+Most relevant links: https://en.wikipedia.org/wiki/Astronomy
+https://www.space.com/16014-astronomy.html
+
+Topic: 2
+translation astronomical volunteer possible word
+Most relevant links: https://www.ted.com/topics/astronomy
+https://www.merriam-webster.com/dictionary/astronomical
+
+Topic: 3
+javascript enable disabled order site
+Most relevant links: https://openstax.org/details/books/astronomy
+https://www.zooniverse.org/projects?discipline=astronomy
+
+Topic: 4
+displaying dome mark lick modified
+Most relevant links: https://www.astro.ucsc.edu/
+
+Topic: 5
+center research astrophysical institute observatory
+Most relevant links: https://www.bu.edu/astronomy/
+https://www.sofia.usra.edu/
+
+Topic: 6
+world member country international professional
+Most relevant links: https://www.iau.org/
+
+Topic: 7
+error writing report list virginia
+Most relevant links: https://www.nsf.gov/crssprgm/reu/list_result.jsp?unitid=5045
+
+
+Running NMF with Kullback-Leibler... 
+Topic: 0
+research science university astronomy event
+Most relevant links: https://www.adlerplanetarium.org/whats-here/the-experts/astronomers/
+https://www.insidehighered.com/news/2015/10/15/berkeley-astronomer-resigns-over-sexual-harassment-investigation
+
+Topic: 1
+understanding determine discover life solar
+Most relevant links: https://en.wikipedia.org/wiki/Astronomy
+https://www.astronomynotes.com/
+
+Topic: 2
+right free reserved user update
+Most relevant links: https://imiloahawaii.org/
+https://www.discovermagazine.com/blog/bad-astronomy
+
+Topic: 3
+javascript enable site astronomy order
+Most relevant links: https://www.nap.edu/catalog/12951/new-worlds-new-horizons-in-astronomy-and-astrophysics
+https://www.mtholyoke.edu/acad/astronomy
+
+Topic: 4
+astronomy tuesday observatory night awesome
+Most relevant links: https://www.skyandtelescope.com/astronomy-information/
+https://www.forbes.com/sites/jonathanocallaghan/2019/11/18/this-is-not-coolastronomers-despair-as-spacex-starlink-train-ruins-observation-of-nearby-galaxies/
+
+Topic: 5
+information physic observatory institute star
+Most relevant links: https://aas.org/
+https://www.sofia.usra.edu/
+
+Topic: 6
+support scientific value community science
+Most relevant links: https://www.onetonline.org/link/summary/19-2011.00
+https://astrosociety.org/
+
+Topic: 7
+site astrophysics cosmology astronomy international
+Most relevant links: https://science.nrao.edu/opportunities/courses/era
+https://astronomy.as.virginia.edu/

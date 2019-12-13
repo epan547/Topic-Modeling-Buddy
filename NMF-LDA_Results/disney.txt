@@ -1,0 +1,44 @@
+2019-12-11
+
+Running NMF with Frobenius norm...
+Topic: 0
+disney walt resort world park
+Most relevant links: wikipedia
+https://en.wikipedia.org/wiki/The_Walt_Disney_Company
+
+Topic: 1
+reserved right disney lucasfilm copyright
+Most relevant links: https://disneynow.com/all-shows/disney-channel
+https://disneynow.com/all-shows
+
+Topic: 2
+disney plus netflix service streaming
+Most relevant links: https://www.cnet.com/news/disney-plus-streaming-service-everything-to-know-baby-yoda/
+https://www.techradar.com/news/disney-plus-shows-movies-sign-up
+
+Topic: 3
+widow black theater disney garcia
+Most relevant links: https://www.disney.com/
+http://disney.go.com/index
+
+
+Running NMF with Kullback-Leibler... 
+Topic: 0
+disney make sign use like
+Most relevant links: https://en.wikipedia.org/wiki/The_Walt_Disney_Company
+wikipedia
+
+Topic: 1
+disney reserved right angeles los
+Most relevant links: https://quotes.wsj.com/DIS
+https://www.disneyresearch.com/
+
+Topic: 2
+movie star year wa frozen
+Most relevant links: https://apnews.com/a339ba9f0e8a4b5e9ffdbd27fbec9080
+https://www.techradar.com/news/disney-plus-shows-movies-sign-up
+
+Topic: 3
+disneyland world question resort magic
+Most relevant links: https://movies.disney.com/
+https://www.disney.com/

@@ -1,0 +1,44 @@
+2019-12-11
+
+Running NMF with Frobenius norm...
+Topic: 0
+food test diet allergy symptom
+Most relevant links: https://www.rd.com/food/
+https://en.wikipedia.org/wiki/Food
+
+Topic: 1
+program snap benefit assistance food
+Most relevant links: https://yourtexasbenefits.hhsc.texas.gov/programs/snap
+https://yourtexasbenefits.hhsc.texas.gov/programs/snap
+
+Topic: 2
+inspiration straight inbox date recipe
+Most relevant links: https://www.usfoods.com/
+https://www.usfoods.com/
+
+Topic: 3
+dude address delivery cart current
+Most relevant links: https://fooddudesdelivery.com/
+https://fooddudesdelivery.com/
+
+
+Running NMF with Kullback-Leibler... 
+Topic: 0
+food mean united including year
+Most relevant links: https://en.wikipedia.org/wiki/Food
+https://www.foodnavigator-usa.com/
+
+Topic: 1
+assistance government program live help
+Most relevant links: https://apnews.com/46cda2574cbad2a31d52c33d07d7c77d
+https://www.nbcnews.com/news/us-news/nearly-700-000-will-lose-food-stamps-usda-work-requirement-n1095726
+
+Topic: 2
+recipe today sign broadcasting inbox
+Most relevant links: https://www.chick-fil-a.com/orderfood
+https://www.today.com/food
+
+Topic: 3
+best cheese closed favorite chicken
+Most relevant links: https://www.foxnews.com/food-drink
+https://www.foxnews.com/food-drink

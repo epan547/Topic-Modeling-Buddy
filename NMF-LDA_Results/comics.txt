@@ -1,0 +1,53 @@
+2019-12-11
+
+Running NMF with Frobenius norm...
+Topic: 0
+comic book check shop december
+Most relevant links: https://www.superworldcomics.com/
+https://www.freecomicbookday.com/
+
+Topic: 1
+error generated requested security server
+Most relevant links: https://www.comicsdungeon.com/
+https://www.bigplanetcomics.com/
+
+Topic: 2
+site reserved right copyright content
+Most relevant links: https://www.dccomics.com/
+https://www.oregonlive.com/comics-kingdom/
+
+Topic: 3
+horse dark comic licensors entire
+Most relevant links: https://digital.darkhorse.com/
+
+Topic: 4
+marvel season perfect whats comic
+Most relevant links: https://www.marvel.com/
+https://www.cnn.com/2019/11/22/us/marvel-comic-book-record-trnd/index.html
+
+
+Running NMF with Kullback-Leibler... 
+Topic: 0
+comic book world check year
+Most relevant links: https://www.cca.edu/humanities-sciences/mfa-comics/
+https://en.wikipedia.org/wiki/Comics
+
+Topic: 1
+error resource server security appropriate
+Most relevant links: https://www.comicsdungeon.com/
+https://www.bigplanetcomics.com/
+
+Topic: 2
+copyright right site reserved content
+Most relevant links: https://www.newsarama.com/comics
+https://www.dccomics.com/comics
+
+Topic: 3
+comic registered logo content country
+Most relevant links: https://www.comic-con.org/
+https://www.comic-con.org/cci
+
+Topic: 4
+learn star sign like look
+Most relevant links: https://joshreads.com/
+https://www.cbr.com/
