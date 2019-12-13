@@ -5,7 +5,8 @@
 ## Setup and Run Instructions
 See `requirements.txt` for dependencies, and run in a python3 environment. <br>
 To run:
-`python3 driver.py`
+`python3 driver.py` <br>
+Note: The google_scrape.py functions will not work without a CSE key from the Google Custom Search API. These were excluded from this repository for security reasons.
 
 ## Project Goals
 
