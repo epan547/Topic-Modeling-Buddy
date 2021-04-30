@@ -47,7 +47,7 @@ termcolor==1.1.0
 torch==1.2.0
 torchvision==0.4.0
 torchviz==0.0.1
-urllib3==1.25.7
+urllib3==1.25.8
 wikipedia==1.4.0
 cycler-0.10.0 
 kiwisolver-1.1.0 
